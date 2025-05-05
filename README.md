@@ -1,6 +1,37 @@
-<h1 align="center">Hi 👋, I'm Mandeep Kumar!</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Mandeep+Kumar!" alt="Typing SVG" />
+  
+  <h3 align="center">Gold Medalist in ECE 🏅 || DevOps Engineer || Cloud & Automation Specialist</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=mandeep44&label=Profile%20views&color=0e75b6&style=flat" alt="mandeep44" /> 
 
-<h3 align="center">Gold Medalist in ECE with 1.5+ years in cloud storage, automation, and virtualization, transitioning to DevOps. Skilled in Python/PowerShell automation, AWS/Azure, Kubernetes, and monitoring tools (Zabbix, Prometheus). Passionate about CI/CD pipelines, Infrastructure as Code (IaC), and scalable cloud architectures.</h3>
+  </a>
+</div>
+
+## 🚀 About Me
+
+Gold Medalist in Electronics and Communication Engineering with 1.5+ years of experience in cloud storage, automation, and virtualization, now transitioning to DevOps. Passionate about building efficient CI/CD pipelines, Infrastructure as Code (IaC) implementations, and scalable cloud architectures.
+
+```python
+class DevOpsEngineer:
+    def __init__(self):
+        self.name = "Mandeep Kumar"
+        self.role = "DevOps Engineer"
+        self.education = "Gold Medalist in ECE"
+        self.experience = "1.5+ years in cloud and automation"
+        self.skills = {
+            "Cloud": ["AWS", "Azure", "GCP"],
+            "Automation": ["Python", "PowerShell", "Bash"],
+            "DevOps": ["Kubernetes", "Docker", "Jenkins", "Terraform"],
+            "Monitoring": ["Zabbix", "Prometheus", "Grafana"]
+        }
+        
+    def __str__(self):
+        return f"Passionate {self.role} transitioning from ECE to cloud technologies"
+
+me = DevOpsEngineer()
+print(me)
+```
 
 <h3 align="left">Connect with me:</h3>
 
